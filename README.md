@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando IAs Generativas - Natural ou Fake Natty ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Poderia uma IA gerar conteúdos tão naturais a ponto de ser confundicos com os criandos por humanos?
+O objetivo deste projeto é utilizar IAs Generativas para criar qualquer tipo de conteúdo, buscando torná-os o mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A IA Generativas usada neste projeto foi o ChatGPT, da OpenIA.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar este contéudo foi utilizado a IA, da OpenIA, conhecida por "ChatGPT". Solicitmaos que criasse um ebook, com 10 páginas de texto com conteúdo que tratam das as ferramentas e bibliotecas aplicadas no projeto de "Criação de API com FastAPI utilizando TDD". Informamos que nesse ebook deveria conter imagens das ferramentas e bibliotecas utilizadas. Na construção deste ebook,  deveria utilizar de IAs Generativas que utilizam das tecnologias para criar conteúdos que sejam o mais realista possível. Por fim, foi solicitado que gerasse um arquivo PDF para posterior postagem no GitHub.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado foi produzido um eBook entitulado pela IA de: "Desenvolvimento_APIs_FastAPI_Python_Docker.pdf". O único empecílio foi o de que as imagens solicitadas para inclusão o eBook, não foram possíveis de serem incluídos, pois a IA encontrou um erro na obtenção das imagens.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Está tornando Natty o uso das IAs Generativas como ferramentas de apoio em qualquer atividade, bastando aplicá-las com ética e responsabilidade.
